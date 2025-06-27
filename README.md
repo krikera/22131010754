@@ -1,4 +1,4 @@
-# URL Shortner Project
+# URL Shortener Project
 
 ### Backend Test Submission
 **Location:** `backend-test-submission/`
